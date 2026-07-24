@@ -1,5 +1,14 @@
-**Cartes au format PNG**
+# Cartes au format PNG
 
-Ce dossier contient les cartes exportées au format PNG dans le cadre du travail de bachelor. Il comprend, d’une part, les cartes présentées dans le rapport et, d’autre part, les cartes utilisées comme masques d’exclusion pour identifier les zones du canton du Tessin considérées comme incompatibles avec l’implantation d’installations photovoltaïques.
+Ce dossier contient les cartes exportées au format PNG dans le cadre du travail de bachelor.
 
-Les fichiers sont destinés principalement à la visualisation et à l’illustration des différentes étapes de l’analyse. Les cartes utilisées comme masques représentent notamment les secteurs exclus pour des raisons territoriales, environnementales, techniques ou réglementaires, conformément à la méthodologie décrite dans le rapport.
+Il comprend :
+
+- les cartes présentées dans le rapport ;
+- les cartes utilisées comme masques d’exclusion pour identifier les zones du canton du Tessin considérées comme incompatibles avec l’implantation d’installations photovoltaïques.
+
+Les fichiers sont principalement destinés à la visualisation et à l’illustration des différentes étapes de l’analyse.
+
+Les masques d’exclusion représentent notamment les secteurs écartés pour des raisons territoriales, environnementales, techniques ou réglementaires, conformément à la méthodologie décrite dans le rapport du travail de bachelor.
+
+> **Remarque :** les cartes au format PNG ne contiennent pas d’informations géospatiales. Les versions géoréférencées sont disponibles dans le dossier consacré aux fichiers GeoTIFF.
