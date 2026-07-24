@@ -6,7 +6,7 @@ Ce dépôt contient les principales données cartographiques et les scripts Pyth
 
 Le dépôt est organisé en plusieurs sections :
 
-- **Cartes au format JPEG**  
+- **Cartes au format PNG**  
   Versions exportées des cartes, destinées à la consultation, à l’illustration et à l’intégration dans le rapport.
 
 - **Cartes au format GeoTIFF**  
