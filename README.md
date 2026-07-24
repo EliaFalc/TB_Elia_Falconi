@@ -67,10 +67,10 @@ Il est donc recommandé de consulter le rapport avant toute réutilisation ou in
 
 Dépôt réalisé dans le cadre d’un travail de bachelor.
 
-**Auteur :** Elia Falconi ;
-**Institution :** HES-SO Valais-Wallis Sion ;
-**Année :** 2026 ;
-**Titre du travail :** Du territoire à la décision : une approche SIG-AHP multicritère pour l'identification du potentiel des grandes installations photovoltaïques au Tessin
+- **Auteur :** Elia Falconi
+- **Institution :** HES-SO Valais-Wallis Sion
+- **Année :** 2026 
+- **Titre du travail :** Du territoire à la décision : une approche SIG-AHP multicritère pour l'identification du potentiel des grandes installations photovoltaïques au Tessin
 
 ## Avertissement
 
