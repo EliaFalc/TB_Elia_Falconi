@@ -8,3 +8,9 @@ Elles permettent de visualiser la répartition spatiale du potentiel attribué �
 
 Les cartes sont disponibles en format PNG et en format GeoTIFF.
 
+
+
+> \\\*\\\*Remarque :\\\*\\\* les sources de données correspondantes sont décrits dans le rapport du travail de bachelor.
+
+
+
