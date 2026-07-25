@@ -14,7 +14,7 @@ Les cartes sont fournies à titre complémentaire afin de documenter les différ
 
 
 
-> \*\*Remarque :\*\* les critères, les seuils appliqués et les sources de données correspondantes sont décrits dans le rapport du travail de bachelor.
+> **Remarque :** les critères, les seuils appliqués et les sources de données correspondantes sont décrits dans le rapport du travail de bachelor.
 
 
 

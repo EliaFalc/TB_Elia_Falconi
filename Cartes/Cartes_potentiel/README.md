@@ -14,5 +14,4 @@ Ces cartes servent de base à l’analyse multicritère visant à identifier les
 
 
 
-> \\\*\\\*Remarque :\\\*\\\* les critères, les seuils appliqués et les sources de données correspondantes sont décrits dans le rapport du travail de bachelor.
-
+> **Remarque :** les critères, les seuils appliqués et les sources de données correspondantes sont décrits dans le rapport du travail de bachelor.
