@@ -1,0 +1,18 @@
+# Cartes de potentiel utilisées dans le rapport
+
+
+
+Ce dossier contient les cartes de potentiel présentées et utilisées dans le rapport du travail de bachelor.
+
+
+
+Chaque carte représente la répartition spatiale du potentiel associé à un critère d’évaluation spécifique, selon les fonctions, les seuils et les hypothèses méthodologiques décrits dans le rapport.
+
+
+
+Ces cartes servent de base à l’analyse multicritère visant à identifier les secteurs du canton du Tessin les plus favorables à l’implantation d’installations photovoltaïques.
+
+
+
+> \\\*\\\*Remarque :\\\*\\\* les critères, les seuils appliqués et les sources de données correspondantes sont décrits dans le rapport du travail de bachelor.
+
